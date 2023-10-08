@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSample", "GenericSam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverExample", "ObserverExample\ObserverExample.csproj", "{02062C23-34B5-4CD5-AAF2-13BD08E4F8EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yieldSample", "yieldSample\yieldSample.csproj", "{995AB814-11F6-4FE2-8E8E-32511A301FFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{02062C23-34B5-4CD5-AAF2-13BD08E4F8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02062C23-34B5-4CD5-AAF2-13BD08E4F8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02062C23-34B5-4CD5-AAF2-13BD08E4F8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995AB814-11F6-4FE2-8E8E-32511A301FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995AB814-11F6-4FE2-8E8E-32511A301FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995AB814-11F6-4FE2-8E8E-32511A301FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995AB814-11F6-4FE2-8E8E-32511A301FFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
