@@ -8,7 +8,7 @@ namespace NumbersFileWork
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\Антон\Desktop\numberFile.txt";
+            string path = @"numberFile.txt";
             string input = Console.ReadLine();
             string isDigit = "";
             foreach (char i in input)
