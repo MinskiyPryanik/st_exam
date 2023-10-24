@@ -7,7 +7,7 @@ namespace st_exam
     {
         static void Main(string[] args)
         {
-            string jsonPath = @"C:\Users\Антон\Desktop\PersonJson.json";
+            string jsonPath = @"C:\Users\krivi\OneDrive\Рабочий стол\PersonJson.json";
             string json = File.ReadAllText(jsonPath);
             var person = json.Deserialize<Person>();
 
