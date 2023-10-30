@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFileWork", "NumbersF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentREST", "StudentREST\StudentREST.csproj", "{A3E0A2EC-BBE8-4230-827C-B58AA6F2825B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationAttr", "ValidationAttr\ValidationAttr.csproj", "{D76270C3-F16C-450A-80A9-E9A3107E08C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventExample", "EventExample\EventExample.csproj", "{3FDD3A62-E61E-4530-BC60-8DBA972422DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{A3E0A2EC-BBE8-4230-827C-B58AA6F2825B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3E0A2EC-BBE8-4230-827C-B58AA6F2825B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3E0A2EC-BBE8-4230-827C-B58AA6F2825B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76270C3-F16C-450A-80A9-E9A3107E08C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76270C3-F16C-450A-80A9-E9A3107E08C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76270C3-F16C-450A-80A9-E9A3107E08C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76270C3-F16C-450A-80A9-E9A3107E08C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FDD3A62-E61E-4530-BC60-8DBA972422DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDD3A62-E61E-4530-BC60-8DBA972422DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDD3A62-E61E-4530-BC60-8DBA972422DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDD3A62-E61E-4530-BC60-8DBA972422DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
